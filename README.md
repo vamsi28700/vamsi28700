@@ -43,6 +43,6 @@ Greetings! I'm a computer science graduate at UMBC and specializing in artificia
 
 ### 🏅 Achievements
 -   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ (January 2022)
--   📝 **Published research paper title "Detection of Plant Diseases using Convolutional Neural Networks** in _IJRASET_ (August 2021)
+-   📝 **Published research paper title "Detection of Plant Diseases using Convolutional Neural Networks"** in _IJRASET_ (August 2021)
 -   🥉 **3rd position in Project Expo** at _KL University Hyderabad - India_ (May 2021)
 -   🏆 **Secured 10th Position in GeoMap Quiz National Prelims** conducted by _GeoMap Society of India (GEMS)_ (December 2011)
