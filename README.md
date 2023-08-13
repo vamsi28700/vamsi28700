@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Krishna Vamsi Kurumaddali 👋
 
 <!--
 **vamsi28700/vamsi28700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**`Aspiring Tech Craftsman (Developer/Researcher/Gamer)`**
+
+I'm a Master's Student in Computer Science at UMBC. 
