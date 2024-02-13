@@ -21,6 +21,11 @@ Greetings! I'm a computer science graduate at UMBC and specializing in artificia
 
 ---
 
+### Project Repository List
+
+| [Artificial Intelligence Projects](https://github.com/stars/vamsi28700/lists/artificial-intelligence-projects) | This repository list contains projects worked by myself or in collaboration with my friends and colleagues in the field of artificial intelligence. |
+| [App Development Projects](https://github.com/stars/vamsi28700/lists/app-development-projects) | This repository list contains projects worked by myself or in collaboration with my friends and colleagues in the field of app development. |
+
 ### 🧰 Tech-Stack and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
