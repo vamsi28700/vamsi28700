@@ -46,7 +46,7 @@ Greetings! I'm a computer science graduate at UMBC and specializing in artificia
 
 ### 📩 Socials
 
-<a href="https://www.github.com/vamsi28700" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" /></a> <a href="https://www.linkedin.com/in/krishnavamsi28700/" target="_blank" rel="noreferrer"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a></p><br>
+<a href="https://www.github.com/vamsi28700" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" /></a> <a href="https://www.linkedin.com/in/krishnavamsi28700/" target="_blank" rel="noreferrer"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a></p><br><br>
 
 ### 🏅 Achievements
 -   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ (January 2022)
