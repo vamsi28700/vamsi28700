@@ -44,12 +44,8 @@ Greetings! I'm a computer science graduate at UMBC and specializing in artificia
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-### 📩 Socials
-
-<a href="https://www.github.com/vamsi28700" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" /></a> <a href="https://www.linkedin.com/in/krishnavamsi28700/" target="_blank" rel="noreferrer"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a></p><br>
-
 ### 🏅 Achievements
--   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ (January 2022)
--   📝 **Published research paper title "Detection of Plant Diseases using Convolutional Neural Networks"** in _IJRASET_ (August 2021)
--   🥉 **3rd position in Project Expo** at _KL University Hyderabad - India_ (May 2021)
--   🏆 **Secured 10th Position in GeoMap Quiz National Prelims** conducted by _GeoMap Society of India (GEMS)_ (December 2011)
+-   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ 
+-   📝 **Published research paper title "Detection of Plant Diseases using Convolutional Neural Networks"** in _IJRASET_ 
+-   🥉 **3rd position in Project Expo** at _KL University Hyderabad - India_
+-   🏆 **Secured 10th Position in GeoMap Quiz National Prelims** conducted by _GeoMap Society of India (GEMS)_
